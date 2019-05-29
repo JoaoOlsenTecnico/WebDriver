@@ -1,0 +1,11 @@
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\bin\Debug\netcoreapp2.1\ProxyDriver.deps.json
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\bin\Debug\netcoreapp2.1\ProxyDriver.runtimeconfig.json
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\bin\Debug\netcoreapp2.1\ProxyDriver.runtimeconfig.dev.json
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\bin\Debug\netcoreapp2.1\ProxyDriver.dll
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\obj\Debug\netcoreapp2.1\ProxyDriver.csproj.CoreCompileInputs.cache
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\obj\Debug\netcoreapp2.1\ProxyDriver.AssemblyInfoInputs.cache
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\obj\Debug\netcoreapp2.1\ProxyDriver.AssemblyInfo.cs
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\obj\Debug\netcoreapp2.1\ProxyDriver.csprojAssemblyReference.cache
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\bin\Debug\netcoreapp2.1\ProxyDriver.pdb
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\obj\Debug\netcoreapp2.1\ProxyDriver.dll
+C:\Users\João Olsen\Documents\Pessoal\ProxyDriver\ProxyDriver\obj\Debug\netcoreapp2.1\ProxyDriver.pdb
