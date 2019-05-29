@@ -264,6 +264,15 @@
           "build/Selenium.Firefox.WebDriver.targets": {}
         }
       },
+      "Selenium.InternetExplorer.WebDriver/3.141.5": {
+        "type": "package",
+        "build": {
+          "build/Selenium.InternetExplorer.WebDriver.targets": {}
+        }
+      },
+      "Selenium.Opera.WebDriver/2.30.0": {
+        "type": "package"
+      },
       "Selenium.Support/3.141.0": {
         "type": "package",
         "dependencies": {
@@ -1451,6 +1460,35 @@
         "driver/geckodriver.exe",
         "selenium.firefox.webdriver.0.24.0.nupkg.sha512",
         "selenium.firefox.webdriver.nuspec"
+      ]
+    },
+    "Selenium.InternetExplorer.WebDriver/3.141.5": {
+      "sha512": "VMIwC0eT6M3r+S6w4u4a/xV/ZKbMWpvj4n/pdaT2yAAgWH6x0h4t+RBb82DHuROWuEFKCi7FEbVbaRByAfTvTQ==",
+      "type": "package",
+      "path": "selenium.internetexplorer.webdriver/3.141.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.InternetExplorer.WebDriver.targets",
+        "driver/IEDriverServer.exe",
+        "selenium.internetexplorer.webdriver.3.141.5.nupkg.sha512",
+        "selenium.internetexplorer.webdriver.nuspec"
+      ]
+    },
+    "Selenium.Opera.WebDriver/2.30.0": {
+      "sha512": "CHJpuU2QBsoXvorLpaqlTyMA2krzb9nXMnB68+ZjBh7+8VHbzRoCjmPW938i1qENoz7Ka7brc1JpX8aiIFGN2w==",
+      "type": "package",
+      "path": "selenium.opera.webdriver/2.30.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "build/Selenium.WebDriver.OperaDriver.targets",
+        "driver/linux64/operadriver",
+        "driver/mac64/operadriver",
+        "driver/win32/operadriver.exe",
+        "driver/win64/operadriver.exe",
+        "selenium.opera.webdriver.2.30.0.nupkg.sha512",
+        "selenium.opera.webdriver.nuspec"
       ]
     },
     "Selenium.Support/3.141.0": {
@@ -3728,6 +3766,8 @@
       "Microsoft.NETCore.App >= 2.1.0",
       "Selenium.Chrome.WebDriver >= 74.0.0",
       "Selenium.Firefox.WebDriver >= 0.24.0",
+      "Selenium.InternetExplorer.WebDriver >= 3.141.5",
+      "Selenium.Opera.WebDriver >= 2.30.0",
       "Selenium.Support >= 3.141.0",
       "Selenium.WebDriver >= 3.141.0",
       "Selenium.WebDriver.ChromeDriver >= 74.0.3729.6"
@@ -3740,11 +3780,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\João Olsen\\Documents\\Pessoal\\ProxyDriver\\ProxyDriver\\ProxyDriver.csproj",
+      "projectUniqueName": "C:\\Users\\João Olsen\\Documents\\Pessoal\\WebDriver\\ProxyDriver\\ProxyDriver\\ProxyDriver.csproj",
       "projectName": "ProxyDriver",
-      "projectPath": "C:\\Users\\João Olsen\\Documents\\Pessoal\\ProxyDriver\\ProxyDriver\\ProxyDriver.csproj",
+      "projectPath": "C:\\Users\\João Olsen\\Documents\\Pessoal\\WebDriver\\ProxyDriver\\ProxyDriver\\ProxyDriver.csproj",
       "packagesPath": "C:\\Users\\João Olsen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\João Olsen\\Documents\\Pessoal\\ProxyDriver\\ProxyDriver\\obj\\",
+      "outputPath": "C:\\Users\\João Olsen\\Documents\\Pessoal\\WebDriver\\ProxyDriver\\ProxyDriver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3786,6 +3826,14 @@
           "Selenium.Firefox.WebDriver": {
             "target": "Package",
             "version": "[0.24.0, )"
+          },
+          "Selenium.InternetExplorer.WebDriver": {
+            "target": "Package",
+            "version": "[3.141.5, )"
+          },
+          "Selenium.Opera.WebDriver": {
+            "target": "Package",
+            "version": "[2.30.0, )"
           },
           "Selenium.Support": {
             "target": "Package",
