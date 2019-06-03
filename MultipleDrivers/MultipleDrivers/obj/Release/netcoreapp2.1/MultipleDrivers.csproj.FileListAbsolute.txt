@@ -8,3 +8,4 @@ C:\Users\João Olsen\Documents\Pessoal\WebDriver\MultipleDrivers\MultipleDrivers
 C:\Users\João Olsen\Documents\Pessoal\WebDriver\MultipleDrivers\MultipleDrivers\obj\Release\netcoreapp2.1\MultipleDrivers.AssemblyInfo.cs
 C:\Users\João Olsen\Documents\Pessoal\WebDriver\MultipleDrivers\MultipleDrivers\obj\Release\netcoreapp2.1\MultipleDrivers.dll
 C:\Users\João Olsen\Documents\Pessoal\WebDriver\MultipleDrivers\MultipleDrivers\obj\Release\netcoreapp2.1\MultipleDrivers.pdb
+C:\Users\João Olsen\Documents\Pessoal\WebDriver\MultipleDrivers\MultipleDrivers\obj\Release\netcoreapp2.1\MultipleDrivers.csprojAssemblyReference.cache
